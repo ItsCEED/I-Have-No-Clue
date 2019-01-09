@@ -7,8 +7,7 @@ const SteamCommunity = require('steamcommunity');
 const TradeOfferManager = require('steam-tradeoffer-manager');
 
 
-// SUCCESS and ERROR TAGS
-
+// SUCCESS Tags
 var ok = '[SUCCESS]'.green;
 var nok = '[ERROR]'.red;
 
